@@ -30,7 +30,7 @@ Juan Buelvas
     <img align="left" src="https://github.com/Juandavid716/Rapid-roll-game-in-Logisim/blob/master/Imagenes/Barreras.JPG" width="1000" /> 
   </p>
   
-## Subcircuit know if the player won or lost
+## Subcircuit to know if the player won or lost
  <p>
     <img align="left" src="https://github.com/Juandavid716/Rapid-roll-game-in-Logisim/blob/master/Imagenes/PantallaGameOver.JPG" width="1000" /> 
   </p>
@@ -40,8 +40,6 @@ Juan Buelvas
     <img align="left" src="https://github.com/Juandavid716/Rapid-roll-game-in-Logisim/blob/master/Imagenes/contador.JPG" width="1000" /> 
   </p>
 ## Collisions
-
  <p>
     <img align="left" src="https://github.com/Juandavid716/Rapid-roll-game-in-Logisim/blob/master/Imagenes/Colisiones.JPG" width="1000" /> 
   </p>
-  
