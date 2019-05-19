@@ -1,8 +1,12 @@
 # Rapid-roll-game-in-Logisim
 Game made using Logisim
 
-# Circuito principal
+Design by:
+Juan Bojato
+Jesus Jarava
+Juan Buelvas
 
+# Main
  <p>
-    <img align="left" src="https://github.com/RicardoGuevara/Pedestrian-Behaviour/blob/master/imagenes/vista1.png" width="400" /> 
+    <img align="left" src="https://github.com/Juandavid716/Rapid-roll-game-in-Logisim/blob/master/Imagenes/main.JPG"  /> 
   </p>
