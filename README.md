@@ -6,7 +6,7 @@ Juan Bojato
 Jesus Jarava
 Juan Buelvas
 
-# Main
+## Main
  <p>
     <img align="left" src="https://github.com/Juandavid716/Rapid-roll-game-in-Logisim/blob/master/Imagenes/main.JPG"  /> 
   </p>
