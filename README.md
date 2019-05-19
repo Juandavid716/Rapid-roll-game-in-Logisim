@@ -2,7 +2,7 @@
 Game made using Logisim
 
 Design by:
-[Juan Bojato] (https://github.com/Juandavid716) ,
+[Juan Bojato](https://github.com/Juandavid716) ,
 [Jesus Jarava](https://github.com/jesu2607) and
 Juan Buelvas
 
