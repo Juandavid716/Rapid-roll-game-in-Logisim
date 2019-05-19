@@ -39,7 +39,4 @@ Juan Buelvas
  <p>
     <img align="left" src="https://github.com/Juandavid716/Rapid-roll-game-in-Logisim/blob/master/Imagenes/contador.JPG" width="1000" /> 
   </p>
-## Collisions
- <p>
-    <img align="left" src="https://github.com/Juandavid716/Rapid-roll-game-in-Logisim/blob/master/Imagenes/Colisiones.JPG" width="1000" /> 
-  </p>
+
