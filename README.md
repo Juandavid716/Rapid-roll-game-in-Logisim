@@ -11,31 +11,31 @@ Juan Buelvas
     <img align="left" src="https://github.com/Juandavid716/Rapid-roll-game-in-Logisim/blob/master/Imagenes/main.JPG"  /> 
   </p>
 
-# Pixel
+## Pixel
  <p>
     <img align="left" src="https://github.com/Juandavid716/Rapid-roll-game-in-Logisim/blob/master/Imagenes/Pixel.JPG"  /> 
   </p>
   
-# barriers location
+## barriers location
  <p>
     <img align="left" src="https://github.com/Juandavid716/Rapid-roll-game-in-Logisim/blob/master/Imagenes/UbicacionBarreras.JPG"  /> 
   </p>
   
-# barriers generator
+## barriers generator
  <p>
     <img align="left" src="https://github.com/Juandavid716/Rapid-roll-game-in-Logisim/blob/master/Imagenes/Barreras.JPG"  /> 
   </p>
   
-# subcircuit know if the player won or lost
+## subcircuit know if the player won or lost
  <p>
     <img align="left" src="https://github.com/Juandavid716/Rapid-roll-game-in-Logisim/blob/master/Imagenes/PantallaGameOver.JPG"  /> 
   </p>
   
-# counter
+## counter
  <p>
     <img align="left" src="https://github.com/Juandavid716/Rapid-roll-game-in-Logisim/blob/master/Imagenes/contador.JPG"  /> 
   </p>
-# collisions
+## collisions
 
  <p>
     <img align="left" src="https://github.com/Juandavid716/Rapid-roll-game-in-Logisim/blob/master/Imagenes/Colisiones.JPG"  /> 
